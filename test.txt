@@ -1,3 +1,4 @@
 1. print the name of your school.
-2  print name of your home district
-3  create a list of fruits
+2. print name of your home district
+3. print a road to your village
+
